@@ -1,0 +1,31 @@
+_repo: L-automne-d-une-femme_21825
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Prévost, Marcel
+    aliases:
+    - Marcel Prévost
+    - Prevost, Marcel
+    birthdate: 1862
+    deathdate: 1941
+    gutenberg_agent_id: '4089'
+    url: http://www.gutenberg.org/2009/agents/4089
+    wikipedia: http://en.wikipedia.org/wiki/Marcel_Prévost
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2007-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21825'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+title: L'automne d'une femme
+url: http://www.gutenberg.org/ebooks/21825
